@@ -5,4 +5,4 @@ a python program that displays the details of every movie the user inputs. It pr
 2. For the ease of reading, number of cast members is limited to 10
 
 #NOTE: before executing the code, make sure to install IMDb module
-       pip install IMDbPY
+       ( pip install IMDbPY )
